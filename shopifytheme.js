@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
     "https://hostinger.sjv.io/jrvLV5",
     "https://capcutaffiliateprogram.pxf.io/jrEmrZ",
     "https://getstartedtiktok.pxf.io/credito_gratis",
+    "https://app.kirvano.com/signup?ref=W6W05X46",
     "https://www.hostgator.com.br/46671.html"
   ];
 
