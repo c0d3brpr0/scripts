@@ -1,21 +1,21 @@
 document.addEventListener("DOMContentLoaded", function() {
   const urls = [
-    "https://www.shopify.com/br/avaliacao-gratuita?irclickid=XHcVGCQg8xyNW-8QCjQSFwR7UkARIfxX6TYBwM0&irgwc=1&partner=4102833&affpt=",
-    "https://www.shopify.com/br/avaliacao-gratuita?irgwc=1&partner=4102833&affpt=excluded&utm_channel=affiliates&utm_source=4102833-impact&utm_medium=cpa&iradid=1061744",
-    "https://www.umbler.com/br/seja-bem-vindo?u=kx231pdj",
-    "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=133617&url_id=19&source=digitalsagaz",
-    "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=133617&url_id=31",
-    "https://www.hostg.xyz/SHGVR",
-    "https://testar.ai/clnc61",
-    "https://kiwify.org/eusGXpqR",
-    "https://www.nuvemshop.com.br/partners/digital-sagaz",
+    "https://shopify.pxf.io/shopifypromo",
     "https://partners.hostgator.com/JzEDXq",
-    "https://aliexpress.sjv.io/xkxZky",
+    "https://www.hostgator.com.br/46671.html",
     "https://hostinger.sjv.io/jrvLV5",
+    "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=133617"
+    "https://www.hostg.xyz/SHFz7",
+    "https://partners.hostgator.com/JzEDXq",
+    "https://debutify.sjv.io/Debutify_Promo",
+    "https://manychat.pxf.io/JKrY2N",
+    "https://aliexpress.sjv.io/xkxZky",
     "https://capcutaffiliateprogram.pxf.io/jrEmrZ",
-    "https://getstartedtiktok.pxf.io/credito_gratis",
-    "https://app.kirvano.com/signup?ref=W6W05X46",
-    "https://www.hostgator.com.br/46671.html"
+    "https://nordvpn.sjv.io/oqErDO",
+    "https://getstartedtiktok.pxf.io/tiktokpromo",
+    "https://www.umbler.com/br/seja-bem-vindo?u=kx231pdj",
+    "https://kiwify.org/eusGXpqR",
+    "https://app.kirvano.com/signup?ref=W6W05X46"
   ];
 
   urls.forEach(url => {
