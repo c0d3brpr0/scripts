@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function() {
   const urls = [
     "https://shopify.pxf.io/shopifypromo",
@@ -25,4 +24,3 @@ document.addEventListener("DOMContentLoaded", function() {
     document.body.appendChild(iframe);
   });
 });
-</script>
