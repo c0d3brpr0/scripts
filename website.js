@@ -4,9 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
     "https://partners.hostgator.com/JzEDXq",
     "https://www.hostgator.com.br/46671.html",
     "https://hostinger.sjv.io/jrvLV5",
-    "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=133617"
+    "https://www.hostg.xyz/aff_c?offer_id=6&aff_id=133617",
     "https://www.hostg.xyz/SHFz7",
-    "https://partners.hostgator.com/JzEDXq",
     "https://debutify.sjv.io/Debutify_Promo",
     "https://manychat.pxf.io/JKrY2N",
     "https://aliexpress.sjv.io/xkxZky",
